@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.mpbcommunications.com/">
-    <img src="https://www.mpbcommunications.com" alt="MPB Communications Logo" width="300">
+    <img src="site-files.com/65e095923a327ac28a596af5/677fe2ab3d5fc67ba88d868a_2023-MPBC-LOGO-p-1600.webp" alt="MPB Communications Logo" width="300">
   </a>
 </p>
 
