@@ -1,8 +1,7 @@
 # MPB Communications Inc. (MPBC)
 
 <p align="center">
-  <a href="https://www.mpbcommunications.com/">
-    <img alt="MPB Communications Inc." width="300">
+  <a href="https://www.mpbcommunications.com" alt="MPB Communications Inc." width="300">
   </a>
 </p>
 
