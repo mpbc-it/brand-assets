@@ -11,7 +11,7 @@
 
 ---
 
-## 🏆 Certifications & Standards
+## Certifications & Standards
 MPBC is dedicated to high-performance and reliable solutions, particularly for mission-critical space applications.
 
 
@@ -25,14 +25,14 @@ MPBC is dedicated to high-performance and reliable solutions, particularly for m
 
 ---
 
-## 🚀 Key Technologies
+## Key Technologies
 * **Super Raman technology**: Pivotal for increasing the reach of unrepeatered systems.
 * **Fiber Lasers & Amplifiers**: High power efficiency for scientific and industrial sectors.
 * **Space-based Amplifiers**: Developed for GEO and LEO satellite constellations.
 
 ---
 
-## 🔗 Contact Us
+## Contact Us
 - **Website:** [mpbcommunications.com](https://www.mpbcommunications.com/)
 - **Address:** 147 Hymus Boulevard, Pointe-Claire, Quebec, H9R 1E9
 - **Support:** [Contact Form](https://www.mpbcommunications.com/contact)
